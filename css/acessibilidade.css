@@ -9,7 +9,7 @@
 
 .barra-acessibilidade ul {
     padding-inline-start: 0 !important;
-    line-height: 25px !important;
+    line-height: 15px !important;
 }
 
 .barra-acessibilidade li {
@@ -21,7 +21,7 @@
     color: black;
     font-weight: bold;
     padding: 0 10px;
-    font-size: 20px !important;
+    font-size: 14px !important;
 }
 
 .ba-item-left {
